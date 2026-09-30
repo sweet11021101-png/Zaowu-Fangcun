@@ -6,7 +6,7 @@
 
 从一张照片与一次自然语言对话出发，完成需求理解、形象生成、3D 建模、材质推荐、智能估价与下单交付。
 
-[![演示视频](https://img.shields.io/badge/演示视频-前往_GitHub_Release观看-CB3837?style=for-the-badge&logo=github)](https://github.com/sweet11021101-png/Zaowu-Fangcun/releases/latest)
+[![演示视频](https://img.shields.io/badge/演示视频-直接观看或下载-CB3837?style=for-the-badge&logo=github)](https://github.com/sweet11021101-png/Zaowu-Fangcun/releases/download/v1.0-showcase/Zaowu-Fangcun-Demo.mp4)
 
 <br />
 
