@@ -10,7 +10,9 @@
 
 <br />
 
-<img src="assets/screenshots/home.png" alt="造物·方寸首页" width="680" />
+<a href="assets/screenshots/home.png">
+  <img src="assets/screenshots/home.png" alt="造物·方寸首页" width="620" />
+</a>
 
 </div>
 
@@ -63,16 +65,62 @@
 
 ## 产品效果
 
-<p align="center">
-  <img src="assets/screenshots/manufacturing.jpg" alt="图像生成与双视图确认" width="31%" />
-  <img src="assets/screenshots/valuation.png" alt="材质推荐与智能估价" width="31%" />
-  <img src="assets/screenshots/admin-center.png" alt="作品管理中心" width="31%" />
-</p>
+以下截图按功能分组展示，均保持原始比例；点击图片可以查看完整原图。
 
-<p align="center">
-  <img src="assets/screenshots/community.png" alt="作品社区" width="31%" />
-  <img src="assets/screenshots/physical-product.jpg" alt="3D 打印实物" width="31%" />
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="assets/screenshots/manufacturing.jpg">
+        <img src="assets/screenshots/manufacturing.jpg" alt="创作与双视图确认" width="100%" />
+      </a>
+      <br />
+      <strong>创作与双视图确认</strong>
+      <br />
+      <sub>通过对话收集创作需求，生成正面与背面参考图，并允许用户确认或继续调整。</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="assets/screenshots/valuation.png">
+        <img src="assets/screenshots/valuation.png" alt="材质推荐与智能估价" width="100%" />
+      </a>
+      <br />
+      <strong>材质推荐与智能估价</strong>
+      <br />
+      <sub>根据模型尺寸、打印材质和制作工艺生成多档方案，为下单提供清晰的价格参考。</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="assets/screenshots/admin-center.png">
+        <img src="assets/screenshots/admin-center.png" alt="作品管理中心" width="100%" />
+      </a>
+      <br />
+      <strong>作品管理中心</strong>
+      <br />
+      <sub>集中浏览与维护已生成作品，支持作品选择、整理以及后续资产管理。</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="assets/screenshots/community.png">
+        <img src="assets/screenshots/community.png" alt="创作社区" width="82%" />
+      </a>
+      <br />
+      <strong>创作社区</strong>
+      <br />
+      <sub>通过分类、标签和作品卡片展示创作成果，为浏览、分享和发现优秀作品提供入口。</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="assets/screenshots/physical-product.jpg">
+        <img src="assets/screenshots/physical-product.jpg" alt="3D 打印实物交付" width="45%" />
+      </a>
+      <br />
+      <strong>3D 打印实物交付</strong>
+      <br />
+      <sub>从数字模型延伸至实体制作，展示概念效果经过打印、修整后的最终落地结果。</sub>
+    </td>
+  </tr>
+</table>
 
 ## 项目测试记录
 
