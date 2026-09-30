@@ -65,59 +65,75 @@
 
 ## 产品效果
 
-以下截图按功能分组展示，均保持原始比例；点击图片可以查看完整原图。
+“部分效果图”文件夹中的 12 张原图均已展示。图片保持原始比例，不做裁切；点击任意图片可以查看完整原图。
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="assets/screenshots/manufacturing.jpg">
-        <img src="assets/screenshots/manufacturing.jpg" alt="创作与双视图确认" width="100%" />
-      </a>
-      <br />
-      <strong>创作与双视图确认</strong>
-      <br />
-      <sub>通过对话收集创作需求，生成正面与背面参考图，并允许用户确认或继续调整。</sub>
+      <a href="assets/screenshots/home.png"><img src="assets/screenshots/home.png" alt="Web 首页" width="100%" /></a><br />
+      <strong>Web 首页</strong><br />
+      <sub>集中呈现精选模型、作品画廊与创作入口，构成平台的主要导航首页。</sub>
     </td>
     <td width="33%" align="center">
-      <a href="assets/screenshots/valuation.png">
-        <img src="assets/screenshots/valuation.png" alt="材质推荐与智能估价" width="100%" />
-      </a>
-      <br />
-      <strong>材质推荐与智能估价</strong>
-      <br />
-      <sub>根据模型尺寸、打印材质和制作工艺生成多档方案，为下单提供清晰的价格参考。</sub>
+      <a href="assets/screenshots/manufacturing.jpg"><img src="assets/screenshots/manufacturing.jpg" alt="创作与双视图确认" width="100%" /></a><br />
+      <strong>创作与双视图确认</strong><br />
+      <sub>通过对话生成正面与背面参考图，确认后进入 3D 模型生成流程。</sub>
     </td>
     <td width="33%" align="center">
-      <a href="assets/screenshots/admin-center.png">
-        <img src="assets/screenshots/admin-center.png" alt="作品管理中心" width="100%" />
-      </a>
-      <br />
-      <strong>作品管理中心</strong>
-      <br />
-      <sub>集中浏览与维护已生成作品，支持作品选择、整理以及后续资产管理。</sub>
+      <a href="assets/screenshots/valuation.png"><img src="assets/screenshots/valuation.png" alt="材质推荐与智能估价" width="100%" /></a><br />
+      <strong>材质推荐与智能估价</strong><br />
+      <sub>结合模型尺寸、材质和制作工艺生成多档方案与价格参考。</sub>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td width="50%" align="center">
-      <a href="assets/screenshots/community.png">
-        <img src="assets/screenshots/community.png" alt="创作社区" width="82%" />
-      </a>
-      <br />
-      <strong>创作社区</strong>
-      <br />
-      <sub>通过分类、标签和作品卡片展示创作成果，为浏览、分享和发现优秀作品提供入口。</sub>
+    <td width="33%" align="center">
+      <a href="assets/screenshots/admin-center.png"><img src="assets/screenshots/admin-center.png" alt="作品管理中心" width="100%" /></a><br />
+      <strong>作品管理中心</strong><br />
+      <sub>集中浏览、选择与维护已生成作品，支持后续资产整理。</sub>
     </td>
-    <td width="50%" align="center">
-      <a href="assets/screenshots/physical-product.jpg">
-        <img src="assets/screenshots/physical-product.jpg" alt="3D 打印实物交付" width="45%" />
-      </a>
-      <br />
-      <strong>3D 打印实物交付</strong>
-      <br />
-      <sub>从数字模型延伸至实体制作，展示概念效果经过打印、修整后的最终落地结果。</sub>
+    <td width="33%" align="center">
+      <a href="assets/screenshots/marketplace.png"><img src="assets/screenshots/marketplace.png" alt="模型商城" width="100%" /></a><br />
+      <strong>模型商城</strong><br />
+      <sub>通过分类、价格和作品卡片展示可选模型，衔接购买与定制服务。</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="assets/screenshots/community.png"><img src="assets/screenshots/community.png" alt="创作社区" width="100%" /></a><br />
+      <strong>创作社区</strong><br />
+      <sub>展示不同类型的创作成果，为浏览、分享和发现作品提供入口。</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="assets/screenshots/mobile-home.png"><img src="assets/screenshots/mobile-home.png" alt="移动端首页" width="58%" /></a><br />
+      <strong>移动端首页</strong><br />
+      <sub>在移动设备中呈现社区内容、语音搜索、商城和个人中心入口。</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="assets/screenshots/profile.jpg"><img src="assets/screenshots/profile.jpg" alt="个人资料与个性化设置" width="58%" /></a><br />
+      <strong>个人资料与个性化设置</strong><br />
+      <sub>支持昵称、签名、头像、背景以及预设形象等个性化配置。</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="assets/screenshots/model-preview.png"><img src="assets/screenshots/model-preview.png" alt="移动端 3D 模型预览" width="58%" /></a><br />
+      <strong>移动端 3D 模型预览</strong><br />
+      <sub>在图片与 GLB 模型之间切换，并查看作品说明、标签和互动信息。</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="assets/screenshots/payment-flow.png"><img src="assets/screenshots/payment-flow.png" alt="完整支付链路" width="100%" /></a><br />
+      <strong>完整支付链路</strong><br />
+      <sub>覆盖购物车、地址确认、订单确认、支付选择与支付完成流程。</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="assets/screenshots/blender-preview.jpg"><img src="assets/screenshots/blender-preview.jpg" alt="Blender 模型维护" width="100%" /></a><br />
+      <strong>Blender 模型维护</strong><br />
+      <sub>通过 Blender 工作流检查模型、纹理与打印细节，辅助完成模型修整。</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="assets/screenshots/physical-product.jpg"><img src="assets/screenshots/physical-product.jpg" alt="3D 打印实物" width="58%" /></a><br />
+      <strong>3D 打印实物</strong><br />
+      <sub>展示数字模型经过打印、修整与实物制作后的最终落地效果。</sub>
     </td>
   </tr>
 </table>
